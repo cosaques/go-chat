@@ -5,7 +5,7 @@
     "tasks": [
         {
             "label": "build",
-            "command": "go build -o chat & ./chat",
+            "command": "go build -o chat",
             "type": "shell",
             "group": "build",
             "presentation": {
